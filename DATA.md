@@ -1,4 +1,4 @@
-We provide guidance for preparing the data used by GLIP. Note that not all data are needed for a specific experiments. Please check the `` Required Data`` fields in [README](README.md) to download necessary data. All data should by placed under the ``DATASET`` folder.
+We provide guidance for preparing the data used by GLIP. Note that not all data are needed for a specific experiments. Please check the `` Required Data`` fields in [README](README.md) to download necessary data. All data should be placed under the ``DATASET`` folder.
 
 
 #### ``COCO``
